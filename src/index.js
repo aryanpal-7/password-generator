@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <Navbar/>
     <App />
-    <Length title="Generate Password" />
+    <Length  />
     
   </React.StrictMode>
 );
